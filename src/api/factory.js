@@ -1,4 +1,4 @@
-import { DataAdapter }  from 'api-adapt';
+import { DataAdapter }  from 'api-adapt'; // api-adapt是一个数据转换的工具，参加npmjs
 import http from 'axios';
 
 export default api => {
