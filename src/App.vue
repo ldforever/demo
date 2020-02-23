@@ -16,8 +16,8 @@ export default {
         };
     },
     components: {
-        HeadBar: () => import('block/HeadBar'),
-        SideBar: () => import('block/SideBar')
+        Headbar: () => import('block/Headbar'),
+        Sidebar: () => import('block/Sidebar')
     }
 }
 </script>
